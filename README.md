@@ -27,7 +27,7 @@ Bukan untuk di recode kek siput bau tanah
 
 ```bash python-enc.sh```
 
-##cara menggunakan nya
+## cara menggunakan nya
 
 
                           cd
