@@ -3,7 +3,7 @@
 Spesial 60 [subscribe](https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg)
 
 Script python-enc adalah scrypt untuk mengunci codingan anda
-Karena banyak bocil recode haram wibu bengkel gadungan tzy maka saya ciptakan script ini
+Karena banyak bocil recode haram wibu hengkel gadungan tzy maka saya ciptakan script ini
 Kenapa saya kok gak encrypt script saya karena untuk spesial 60 subs
 Bukan untuk di recode kek siput bau tanah
 
