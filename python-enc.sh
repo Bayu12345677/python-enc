@@ -146,6 +146,7 @@ command clear
             fi
 
 }
-     set main
+      { set main }
+         }
 
 main
