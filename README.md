@@ -7,7 +7,7 @@ Karena banyak bocil recode haram wibu hengkel gadungan tzy maka saya ciptakan sc
 Kenapa saya kok gak encrypt script saya karena untuk spesial 60 subs
 Bukan untuk di recode kek siput bau tanah
 
-##Cara install
+## Cara install
 
 ```pkg update && pkg upgrade```
 
