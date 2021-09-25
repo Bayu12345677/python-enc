@@ -1,5 +1,6 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
+#             -=[ open source ]=-             #
 
 ######################################
 #      -=[ code by polygon ]=-       #
