@@ -40,6 +40,6 @@ Bukan untuk di recode kek siput bau tanah
 Jng lupa subrek admin
 
 
-[Youtube admin](https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg)
+[Youtube admin plis](https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg)
 
         
